@@ -23,7 +23,12 @@ Examples of unacceptable behavior:
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the maintainer by opening an issue or contacting [@yusuf335](https://github.com/yusuf335) directly. All complaints will be reviewed and investigated promptly and fairly. Maintainers who do not follow or enforce the Code of Conduct may be removed from the project team.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the maintainers by opening an issue or contacting either maintainer directly:
+
+- [@yusuf335](https://github.com/yusuf335)
+- [@abhi-jeet589](https://github.com/abhi-jeet589)
+
+All complaints will be reviewed and investigated promptly and fairly. If a report concerns one of the maintainers, you may contact the other directly. Maintainers who do not follow or enforce the Code of Conduct may be removed from the project team.
 
 ## Attribution
 
